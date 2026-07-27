@@ -1,5 +1,6 @@
 """
 Kişisel Telefon Uygulaması
+
 --------------------------
 Yapı:
   IntroScreen  -> Başla butonu ile MenuScreen'e geçer
